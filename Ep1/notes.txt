@@ -1,0 +1,16 @@
+05-Apr-23
+HM:
+    ** Important to know what is CDN and why we use CDN.
+        What is CDN
+        why CDN
+        Where need to use CDN
+        what is crossorigin
+
+   CDN -  https://legacy.reactjs.org/docs/cdn-links.html
+
+   <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+   What is CDN ? 
+        -Content delivery network
+        - 
